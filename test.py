@@ -1,3 +1,4 @@
-def X(lr= 1):
+def X(lr= 0.1):
     print(lr)
+
 print("hello")
